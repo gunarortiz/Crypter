@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res"><file name="rounded_edittext" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\drawable\rounded_edittext.xml" qualifiers="" type="drawable"/><file name="rounded_edittext1" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\drawable\rounded_edittext1.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="activity_crear" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\layout\activity_crear.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_splash" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\layout\activity_splash.xml" qualifiers="" type="layout"/><file name="crear" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\menu\crear.xml" qualifiers="" type="menu"/><file name="main" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="splash" path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\menu\splash.xml" qualifiers="" type="menu"/><file path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="title_activity_crear">CrearActivity</string><string name="action_settings">Settings</string><string name="title_activity_splash">SplashActivity</string><string name="app_name">Crypter</string></file><file path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\values\styles.xml" qualifiers=""><style name="editable">
+        <item name="android:textSize">15dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingLeft">14dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+        
+        <item name="android:background">@drawable/rounded_edittext1</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="boton">
+        <item name="android:background">@drawable/rounded_edittext</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:paddingLeft">7dp</item>
+        <item name="android:paddingRight">7dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_height">35dp</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style></file><file path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\build\generated\res\rs\debug"/><source path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\gunar\AndroidStudioProjects\Crypter\app\src\debug\res"/></dataSet><mergedItems/></merger>
